@@ -4,3 +4,7 @@
 ## Summary 
 
 This repository contains all of the notes taken by [ArielHch](https://github.com/ArielHch) for the [Lighthouse Labs](https://www.lighthouselabs.ca/en/web-development-flex-program?gclid=CjwKCAjwq9mLBhB2EiwAuYdMtUIQzGQHOnvp9hadNPrdPtjkq1qpaDGLYhEXpDSaNLXW7IsAZyhYpxoCowkQAvD_BwE) Web Development Bootcamp.
+## Table of Contents
+* [Week 1](/Week_1)
+  * [Day 1](/week_1/Day_1 )
+
